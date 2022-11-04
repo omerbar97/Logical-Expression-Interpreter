@@ -19,3 +19,7 @@
 
 <img src="./expression1.gif" width="600" height="450">
 <img src="./expression2.gif" width="600" height="450">
+
+
+<h2>How To Run? </h2>
+<p>Download the source code to your computer and open the src file in your IDE, re-build the project and press 'F5' (run) </p>
