@@ -17,7 +17,5 @@
 
 <h2>How To Use?</h2>
 
-<video width="800" height="500" controls>
-  <source src="./expression.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<img src="./expression1.gif" width="600" height="450">
+<img src="./expression2.gif" width="600" height="450">
